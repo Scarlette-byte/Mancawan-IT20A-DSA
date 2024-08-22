@@ -1,0 +1,3 @@
+Name:SCARLETTE SANGCAY MANCAWAN
+Course:IT20A
+Activity:Basics of Git and GitHub
